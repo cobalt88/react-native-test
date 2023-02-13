@@ -10,6 +10,8 @@ import {
   FlatList,
 } from "react-native";
 
+require("/components/GoalItem");
+
 export default function App() {
   const [enteredGoalText, setEnteredGoalText] = useState("");
   const [courseGoals, setCourseGoals] = useState([]);

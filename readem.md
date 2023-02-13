@@ -1,1 +1,1 @@
-course goals app prctice from academind react native coursework
+course goals app practice from academind react native coursework
